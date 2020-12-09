@@ -1,1 +1,1 @@
-gg.alert('200 Üyede Gelicektir.'l
+gg.alert("SCRİPT SÜRESİ DOLDU")
