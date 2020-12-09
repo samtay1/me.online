@@ -4,7 +4,7 @@
 		if os.date("%Y%m%d") >= "20201220" then gg.alert("SCRİPT SÜRESİ DOLDU") return end
 
 		
-PW = gg.prompt({'HOŞGELDİNİZ KOLPA TEAM V3.5 SCRİPT ÜCRETSİZ Şifre @NarutoHackTR telegram grubumuzda' }, {}, {})
+PW = gg.prompt({'HOŞGELDİNİZ NARUTO TEAM V3.5 SCRİPT ÜCRETSİZ Şifre @NarutoHackTR telegram grubumuzda' }, {}, {})
 if not PW then return
 end 
 if PW[1] == "" then os.exit() end
